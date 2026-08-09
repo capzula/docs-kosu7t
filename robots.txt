@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-3b8ydq.asiabolamaju.com/sitemap.xml
